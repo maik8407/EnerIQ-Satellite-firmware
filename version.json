@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "bin": "EnerIQ_Satellite_V1.0.bin",
+  "md5": "0ad89cb96848477c5755fcf0e4017c73",
+  "size": 1338032,
+  "date": "02.10.2026",
+  "notes": [
+    "Erste Version",
+    "Kanaele T0-T3 ueber Webseite und MQTT",
+    "MAIANA: Versorgung, Sendefreigabe, Stationsdaten, Terminal",
+    "NMEA-0183 per TCP und UDP, Multiplexer",
+    "Online-Update mit Rollback"
+  ]
+}
